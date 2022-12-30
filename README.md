@@ -4,6 +4,6 @@ This Commentary (co-authored with Nikolaos Papoulias) is part of the requirement
 
 This Git includes the paper I wrote with Nikolaos Papoulias, the code we wrote together, and the data required for the replication of the paper. 
 
-You can direct all inquiries to kaanbasdil@gmail.com
+You can direct all inquiries to baris.basdil@ut-capitole.fr
 
 Thanks!
